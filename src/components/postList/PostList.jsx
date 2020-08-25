@@ -1,5 +1,4 @@
 import React from 'react';
-import { connect } from 'react-redux';
 import PostItem from '../postItem/PostItem';
 
 class PostList extends React.Component {
