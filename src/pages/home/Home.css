@@ -1,0 +1,9 @@
+.app > * {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.buttons {
+    width: 50%;
+    padding-left: 25%;
+}

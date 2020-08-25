@@ -1,0 +1,1 @@
+export const CHANGE_TEXT_COLOR = 'CHANGE_TEXT_COLOR';
