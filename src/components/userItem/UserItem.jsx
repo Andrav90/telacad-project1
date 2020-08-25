@@ -10,7 +10,7 @@ class UserItem extends React.Component {
     };
       
     render(){
-        const {name, email, salary, id, isGoldClient} = this.props;
+        const {name, email, salary, isGoldClient} = this.props;
         return (
             <div className="divs">
                 <h3>Name: {name}</h3>
