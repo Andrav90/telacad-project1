@@ -1,5 +1,3 @@
-# telacad-project1
-
 ABOUT
 
 Simple React app developed as a first project for the JavaScript Advanced - React course being held at Telecom Academy, Bucharest.
